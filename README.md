@@ -16,7 +16,7 @@ Two-Stage ESRGAN
 `$ Get random crop of size 256 x 256
   
   
- > The dataset.py file
+ > The random_dataset.py file
 
 `$ Collect LR image with unknown degradation as well as corresponding HR image.
 
