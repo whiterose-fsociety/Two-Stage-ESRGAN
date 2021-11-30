@@ -6,19 +6,7 @@ Two-Stage ESRGAN
 
 `$ python3 -m pip install torch torchvision torchaudio pytorch albumentations sklearn
 
-`$ sbatch slurm
-
-`$ virtualenv -p=/usr/bin/python3.8 venv`
-
-`$ source venv/bin/activate`
-
-`$ cd epiuse`
-
-`$ pip install -r requirements.txt`
- 
-> If pip does not work try this
-
- `$ python3 -m pip install -r requirements.txt`
+`$ python3 esrgan.py
  
 ## Preparing The Database
 > The dataset.py file
