@@ -1,6 +1,8 @@
 # Two-Stage-ESRGAN
 Two-Stage ESRGAN
 
+![3](https://user-images.githubusercontent.com/42980126/144039574-10f76cca-dd3c-4755-a86b-d2b56aa8e22c.png)
+
 ## Running
 > Ensure that you have python3 installed
 
