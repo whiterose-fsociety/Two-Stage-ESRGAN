@@ -4,7 +4,7 @@ Two-Stage ESRGAN
 ## Running
 > Ensure that you have python3 installed
 
-`$ python3 -m pip install torch torchvision torchaudio pytorch albumentations sklearn
+`$ python3 -m pip install torch torchvision torchaudio pytorch albumentations sklearn`
 
 `$ python3 esrgan.py
  
